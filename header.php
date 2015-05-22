@@ -33,7 +33,7 @@
               <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Kamers <span class="caret"></span></a>
               <ul class="dropdown-menu" role="menu">
                 <li><a href="rooms">Alle kamers</a></li>
-                <li><a href="/rooms/new.php">Nieuwe kamer</a></li>
+                <li><a href="rooms/new.php">Nieuwe kamer</a></li>
               </ul>
             </li>
           </ul>
